@@ -1,0 +1,11 @@
+wp-.*
+.env
+\wp-*
+.htaccess
+/pytest_api.egg-info
+/build
+/dist
+.idea
+xmlrpc.php
+.pytest_cache
+
